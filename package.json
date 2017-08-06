@@ -1,0 +1,22 @@
+{
+  "name": "ts-compile-on-save",
+  "version": "1.0.0",
+  "description": "Proof of concept of using 'compile on save' feature with VS Code and VS 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucasus/TSCompileOnSave.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucasus/TSCompileOnSave/issues"
+  },
+  "homepage": "https://github.com/Lucasus/TSCompileOnSave#readme",
+  "devDependencies": {
+    "typescript": "^2.4.2"
+  }
+}
