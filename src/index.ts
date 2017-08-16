@@ -1,5 +1,7 @@
+import * as lib from "./lib";
+
 export default function something() {
-   console.log("Something 1245454345");
+   console.log(lib.doSomething());
 }
 
 
